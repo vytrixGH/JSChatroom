@@ -1,6 +1,6 @@
 # JSChatroom
 
-A very simple Chatroom written in HTML/Javascript.
+A very simple Chatroom written in HTML/CSS/Javascript.
 
 
 ## Requirements
